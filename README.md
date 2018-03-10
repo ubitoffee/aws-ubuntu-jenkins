@@ -1,4 +1,4 @@
-# aws-ubuntu-jenkins
+# AWS 우분투에 jenkins 설치를 위한 명령어
 
 sudo apt-get install openjdk-8-jdk
 
